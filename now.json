@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "ean",
+  "alias": "ean.sklinkusch.now.sh",
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ],
+  "env": {
+    "API_KEY": "400000000"
+  }
+}
